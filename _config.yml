@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
+        title: "更多网站一/待修改",
         href: "https://github.com/klovien/klovien.github.io/wiki"
     },{
-        title: "三叶草国际语互动社区",
+        title: "更多网站二/待修改",
         href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
     },{
-        title: "知乎：人造国际语",
+        title: "更多网站三/待修改",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     },{
-        title: "知乎：Henri_Jambo",
+        title: "更多网站四/待修改",
         href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
