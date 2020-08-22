@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 2329505969@qq.com
 description: "interesting"
 keyword: "感谢hongliangyu同学提供技术支持"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://hhhhh-arch.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/hhhhh-arch/hhhhh-arch.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
+        title: "更多网站一/待修改",
         href: "https://github.com/klovien/klovien.github.io/wiki"
     },{
-        title: "三叶草国际语互动社区",
+        title: "更多网站二/待修改",
         href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
     },{
-        title: "知乎：人造国际语",
+        title: "更多网站三/待修改",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     },{
-        title: "知乎：Henri_Jambo",
+        title: "更多网站四/待修改",
         href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
